@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/delevrything
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aediot.github.io
+  * I am delevrything (https://keybase.io/delevrything) on keybase.
+  * I have a public key with fingerprint 76BC 97A3 E095 9FEB 80C1  CED6 08A1 9FD6 B605 50A4
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;0111f39ed2d38dbd5c8fb7fa789046af86b835346e695df14a6fed541190c7b295da0a&quot;,
+            &quot;fingerprint&quot;: &quot;76bc97a3e0959feb80c1ced608a19fd6b60550a4&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;key_id&quot;: &quot;08a19fd6b60550a4&quot;,
+            &quot;kid&quot;: &quot;0111f39ed2d38dbd5c8fb7fa789046af86b835346e695df14a6fed541190c7b295da0a&quot;,
+            &quot;uid&quot;: &quot;acaa5e2f18d082f7ec334ac41ec9cd19&quot;,
+            &quot;username&quot;: &quot;delevrything&quot;
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;aediot.github.io&quot;,
+            &quot;protocol&quot;: &quot;https:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;ctime&quot;: 1500759969,
+    &quot;expire_in&quot;: 157680000,
+    &quot;prev&quot;: &quot;a4870d8e3a16a77a7c99ce4432404ed237563dc1650241a72bb23a7b5a95fb0f&quot;,
+    &quot;seqno&quot;: 17,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMFJAnicrVI9aBRBGF1PT+KFgEFIKw5omuOc2Z2fnSusrMRCSGXjOT/f3I05d8/d
+vTMxpLePnYUG7ERIITYioggRgpUSLMTC3tLWOJPEytZphvm+99689/F9WDiZdBbn
+tp/sv2rfeHZi793TaXKz3t3eQLq066i/gVbh8IKxhboZrHqL+ggTQlwmwaY2y622
+zOROC6dELjHlyuVc5xnLKAcumXWEKu7AMkqIxEboNBQVVqiLnC+GUE0qXzRBVnBt
+pFAZYMmkA51jQwxYjnNFpLNcc8wYVjQQR2UdGcGcVjX0fBlq4TE4svcv/j/7nh7K
+KaMUg9SR3OI8dQJMllFlKAEjjSUyAmuoCnUXAtrCGGbVejMKmdFmF4XOzBuIw41p
+jlEKrC+b3tA3o6k+yjWpyqY05Th0R00zqfuR3axPIvw+6MGx0ED7wkbtLppBVfuy
+QH0SkKbxUZkwjAWTkssugrWJr2DgI4IJnuNw4j8wiw5oLrDNIVOEKyGUMFIaoDRL
+KaZhdJlgPLOGcIZTSpRItU4zJTRTkjmNHYrR7hVl0BbBpxoGzdoPC9VMK0Cb72+d
+ShY7yel2K+5Z0jlz9u/2fV9ODsZX3u68aH1+vHZ159Pln72F9NLy3svh3Nbug6/n
+P15fSZODzWIl3SqXWr+/zKcPJ+fefHv048LtO7/2Lz6fv/Z62i7/AHth5Uo=
+=va/F
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/delevrything
+
+==================================================================
+
